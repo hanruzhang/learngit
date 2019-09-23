@@ -1,0 +1,2 @@
+This is a test file.
+Aim to test the git add && git commit.
